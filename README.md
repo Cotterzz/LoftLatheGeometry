@@ -1,1 +1,1 @@
-view here: https://cotterzz.github.io/LoftLatheGeometry/
+view usage example here: https://cotterzz.github.io/LoftLatheGeometry/
